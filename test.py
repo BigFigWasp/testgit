@@ -1,3 +1,5 @@
+from bird import pigeon, sparrow
+
 def jan_fkt():
     return 66
 
