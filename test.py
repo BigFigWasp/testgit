@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 from funktionen_uli import f1,f2
+=======
+from bird import pigeon, sparrow
+>>>>>>> janbranch
 
 def jan_fkt():
     return 66
